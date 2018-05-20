@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">JatimApp</string>
+    <string name="title_activity_main">Principal</string>
+    <string name="title_activity_act_acesso">Acesso</string>
+    <string name="lbl_descricao">Descrição</string>
+    <string name="lbl_usuario">Usuário</string>
+    <string name="lbl_senha">Senha</string>
+    <string name="lbl_ip">Ip</string>
+    <string name="lbl_ok">Ok</string>
+    <string name="lbl_cancelar">Cancelar</string>
+    <string name="lbl_criado_com_sucesso">Banco de dados criado com sucesso</string>
+    <string name="lbl_erro">Erro</string>
+    <string name="lbl_aviso">Aviso</string>
+    <string name="lbl_mensagem_campos_obrigatorios">Campos obrigatórios não preenchidos</string>
+</resources>
